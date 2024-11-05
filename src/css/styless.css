@@ -1,0 +1,14 @@
+/**
+Import of all partials
+*/
+
+@import url(./articles.css);
+@import url(./explore-and-numbers.css);
+@import url(./getting-there.css);
+@import url(./header.css);
+@import url(./hero.css);
+@import url(./map.css);
+@import url(./photo-gallery.css);
+@import url(./reset.css);
+@import url(./styless.css);
+@import url(./video.css);
